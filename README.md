@@ -29,9 +29,14 @@ Ni väljer helt själva API:et. Ni kan välja ett som ni hittar på nätet men h
 - Applikationen ska ha en loading spinner medans data hämtas.
 - Applikationen ska stödja någon form av inställningsbar sortering. (T.ex Bokstavsordning, datum, antal, etc)
 
-## Design Krav
-- Applikationen ska ha en genomgående design som passar till det API ni väljer.
-- ...
+## Design Krav (Grundläggande)
+- Alla skisser skall göras i Figma
+- Applikationen ska ha en genomgående design som passar till det API ni väljer
+- Designa med minst en Komponent och en Auto Layout 
+
+## Design Krav (Utmaningar)
+- Interaktiv prototyp i Figma så visar hela flödet
+- Komponent med varianter
 
 ## Namngivningsprinciper när du kodar
 använd latinska tecken för variabelnamn och funktioner (camelCase)
