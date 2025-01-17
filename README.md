@@ -35,7 +35,7 @@ Ni väljer helt själva API:et. Ni kan välja ett som ni hittar på nätet men h
 - Designa med minst en Komponent och en Auto Layout 
 
 ## Design Krav (Utmaningar)
-- Interaktiv prototyp i Figma så visar hela flödet
+- Interaktiv prototyp i Figma som visar hela flödet
 - Komponent med varianter
 
 ## Namngivningsprinciper när du kodar
