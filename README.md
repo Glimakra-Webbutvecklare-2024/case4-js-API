@@ -47,7 +47,7 @@ korrekt formaterat kod
 Applikationen får inte använda externa ramverk, utan det är "vanilla" JavaScript och CSS som gäller. Dela upp struktur, innehåll, design och logik. Använd externa filer för CSS och JavaScript.
 
 ## Så börjar du
-Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö. Under projektet - senast 1 februari bjuder du in dina lärare. Se Settings -> Manage access -> Add people
+Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö. Under projektet - senast 27 januari bjuder du in dina lärare. Se Settings -> Manage access -> Add people
 
 Bjud in följande användare till ert case repo:
 
@@ -56,7 +56,7 @@ Bjud in följande användare till ert case repo:
 - addkolon (Mattias)
 
 ## Inlämning och redovisning
-- Preliminärt datum för redovisning av caset är den 13 februari kl 08:45. Feedback följer under vecka 7.
+- Preliminärt datum för redovisning av caset är onsdagen den 5 februari kl 08:45. Feedback följer under vecka 7.
 - Caset ska finnas färdigt i ett Gihub repo i samband med redovisningen
 - Tänk på att inte visa console.log() i ett färdigt projekt.
 
